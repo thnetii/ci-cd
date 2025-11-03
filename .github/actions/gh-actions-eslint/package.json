@@ -35,7 +35,7 @@
   "dependencies": {
     "@actions/core": "^1.11.1",
     "@actions/exec": "^1.1.1",
-    "eslint-formatter-stylish": "^8.39.0"
+    "eslint-formatter-stylish": "^9.0.1"
   },
   "devDependencies": {
     "@types/eslint": "^8"
