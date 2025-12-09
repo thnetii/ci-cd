@@ -34,7 +34,7 @@
   "main": "action.js",
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "@actions/exec": "^1.1.1",
+    "@actions/exec": "^2.0.0",
     "eslint-formatter-stylish": "^8.39.0"
   },
   "devDependencies": {
