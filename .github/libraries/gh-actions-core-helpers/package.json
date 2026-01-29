@@ -30,6 +30,6 @@
     "node": ">=20"
   },
   "devDependencies": {
-    "@actions/core": "^1.11.1"
+    "@actions/core": "^3.0.0"
   }
 }

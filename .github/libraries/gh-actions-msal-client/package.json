@@ -25,7 +25,7 @@
     "node": ">=20"
   },
   "devDependencies": {
-    "@actions/core": "^1.11.1",
+    "@actions/core": "^3.0.0",
     "@actions/http-client": "^3.0.0",
     "@azure/msal-node": "^2.13.1"
   }
